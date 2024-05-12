@@ -12,9 +12,9 @@ int main()
         else
             b -= a;
     }
-    int greatest_common_divisor = a;
-    int least_common_multiple = (num1 * num2) / greatest_common_divisor;
-    cout << "Greatest Common Divisor: " << greatest_common_divisor << endl;
-    cout << "Least Common Multiple: " << least_common_multiple << endl;
+    int b.m.m = a;
+    int k.m.m = (num1 * num2) / b.m.m;
+    cout << "b.m.m: " << b.m.m << endl;
+    cout << "k.m.m: " << k.m.m << endl;
     return 0;
 }
